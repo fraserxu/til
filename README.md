@@ -16,3 +16,9 @@ paht.join('https://example.com', '/search')
 ```
 
 </details>
+
+<details>
+  <summary>til in terminal is cool</summary>
+for sure
+
+</details>
